@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there,+I'm+Max)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00db7d&lines=Hi+there,+I'm+Max)](https://git.io/typing-svg)
 <br>
 Studying in Petrozavodsk State University<br>
 I am also a professional skiing athlete and orienteering champ
