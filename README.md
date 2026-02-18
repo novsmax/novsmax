@@ -3,7 +3,7 @@
 Studying in Petrozavodsk State University<br>
 I am also a professional skiing athlete and orienteering champ
 
-# My Stack: 
+# Stack: 
 
 Best:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
@@ -31,7 +31,7 @@ Also:
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-Stats:
+# Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=novsmax&theme=gotham&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=novsmax&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
