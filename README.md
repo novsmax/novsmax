@@ -65,12 +65,12 @@ I've been coding since my first year at university and I'm currently moving towa
 
 ### GitHub Activity
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=novsmax&show_icons=true&hide_border=true&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&bg_color=1E1E2E" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novsmax&layout=compact&hide_border=true&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
+<img height="165" src="https://github-readme-stats-eta-pied-78.vercel.app/api?username=novsmax&show_icons=true&hide_border=true&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&bg_color=1E1E2E" />
+<img height="165" src="https://github-readme-stats-eta-pied-78.vercel.app/api/top-langs/?username=novsmax&layout=compact&hide_border=true&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
 
 <br><br>
 
-<a href="https://t.me/novomal"><img src="https://img.shields.io/badge/Telegram-1E1E2E?style=for-the-badge&logo=telegram&logoColor=89B4FA" /></a>
+<a href="https://t.me/novsmax"><img src="https://img.shields.io/badge/Telegram-1E1E2E?style=for-the-badge&logo=telegram&logoColor=89B4FA" /></a>
 <a href="mailto:novsmax@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8" /></a>
 
 </div>
