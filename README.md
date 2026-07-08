@@ -70,7 +70,7 @@ I've been coding since my first year at university and I'm currently moving towa
 
 <br><br>
 
-<a href="https://t.me/novsmax"><img src="https://img.shields.io/badge/Telegram-1E1E2E?style=for-the-badge&logo=telegram&logoColor=89B4FA" /></a>
+<a href="https://t.me/novomal"><img src="https://img.shields.io/badge/Telegram-1E1E2E?style=for-the-badge&logo=telegram&logoColor=89B4FA" /></a>
 <a href="mailto:novsmax@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8" /></a>
 
 </div>
