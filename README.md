@@ -1,38 +1,76 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00db7d&lines=Hi+there,+I'm+Max)](https://git.io/typing-svg)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=6C7086&center=true&vCenter=true&width=520&lines=Max+%E2%80%94+Systems+%2B+DevOps;Infrastructure+%C2%B7+Backend+%C2%B7+Mobile" alt="typing" />
+
+<p>
+  <em>Information Systems (BSc, 2026) · Petrozavodsk, Karelia</em>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-DevOps%20%2F%20SysAdmin-45475A?style=flat-square&labelColor=1E1E2E" />
+  <img src="https://img.shields.io/badge/Sport-Orienteering%20CMS-45475A?style=flat-square&labelColor=1E1E2E" />
+  <img src="https://img.shields.io/badge/Location-Russia-45475A?style=flat-square&labelColor=1E1E2E" />
+</p>
+
+</div>
+
 <br>
-Studying in Petrozavodsk State University<br>
-I am also a professional skiing athlete and orienteering champ
 
-# Stack: 
+I've been coding since my first year at university and I'm currently moving toward **system administration and DevOps**. I like understanding how things work under the hood — from network infrastructure to Clean Architecture in mobile apps.
 
-Best:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
+<br>
 
-Web:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
+<div align="center">
 
-DB:
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) 
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+### Tech Stack
 
-Can use:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+<img src="https://img.shields.io/badge/Python-1E1E2E?style=for-the-badge&logo=python&logoColor=A6E3A1" />
+<img src="https://img.shields.io/badge/Kotlin-1E1E2E?style=for-the-badge&logo=kotlin&logoColor=CBA6F7" />
+<img src="https://img.shields.io/badge/Bash-1E1E2E?style=for-the-badge&logo=gnubash&logoColor=A6E3A1" />
 
-Also:
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+<img src="https://img.shields.io/badge/FastAPI-1E1E2E?style=for-the-badge&logo=fastapi&logoColor=94E2D5" />
+<img src="https://img.shields.io/badge/Compose-1E1E2E?style=for-the-badge&logo=jetpackcompose&logoColor=89B4FA" />
+<img src="https://img.shields.io/badge/SQLite-1E1E2E?style=for-the-badge&logo=sqlite&logoColor=89DCEB" />
 
-# Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=novsmax&theme=gotham&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=novsmax&theme=gotham&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<img src="https://img.shields.io/badge/Docker-1E1E2E?style=for-the-badge&logo=docker&logoColor=89B4FA" />
+<img src="https://img.shields.io/badge/Linux-1E1E2E?style=for-the-badge&logo=linux&logoColor=F9E2AF" />
+<img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=FAB387" />
 
-.
+</div>
+
+<br>
+
+<div align="center">
+
+### Things I've Built
+
+</div>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/novsmax/smarttracker">SmartTracker</a></h4>
+      <p>Android GPS tracking app. Kotlin · Jetpack Compose · Clean Architecture · Hilt · Room. Multi-runtime GPS supporting GMS / HMS / AOSP, covered by 21 test classes. Owned the Android client end to end.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/novsmax/ski-o-routes">SKI-O-Routes</a></h4>
+      <p>Route optimization for orienteering. Solo fullstack: FastAPI + SQLite + OpenCV for map processing, NetworkX / Dijkstra for optimal route finding.</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### GitHub Activity
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=novsmax&show_icons=true&hide_border=true&title_color=CBA6F7&icon_color=A6E3A1&text_color=CDD6F4&bg_color=1E1E2E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novsmax&layout=compact&hide_border=true&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
+
+<br><br>
+
+<a href="https://t.me/novsmax"><img src="https://img.shields.io/badge/Telegram-1E1E2E?style=for-the-badge&logo=telegram&logoColor=89B4FA" /></a>
+<a href="mailto:novsmax@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=F38BA8" /></a>
+
+</div>
