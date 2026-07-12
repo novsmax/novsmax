@@ -49,7 +49,7 @@ I've been coding since my first year at university and I'm currently moving towa
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/novsmax/smarttracker">SmartTracker</a></h4>
+      <h4><a href="https://github.com/novsmax/mobile-android">SmartTracker</a></h4>
       <p>Android GPS tracking app. Kotlin · Jetpack Compose · Clean Architecture · Hilt · Room. Multi-runtime GPS supporting GMS / HMS / AOSP, covered by 21 test classes. Owned the Android client end to end.</p>
     </td>
     <td width="50%" valign="top">
